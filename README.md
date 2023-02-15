@@ -3,4 +3,6 @@
 
 使用：
 
-`bash <(curl -Lso- https://raw.githubusercontent.com/isyekong/SpeedTestCN/main/superspeed.sh)"`
+```bash
+bash <(curl -Lso- https://raw.githubusercontent.com/isyekong/SpeedTestCN/main/superspeed.sh)"
+```
