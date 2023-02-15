@@ -112,11 +112,11 @@ speed_test(){
 }
 
 preinfo() {
-	echo "———————————————————SuperSpeed 全面测速版——————————————————"
-	echo "       bash <(curl -Lso- https://raw.githubusercontent.com/BlueSkyXN/SpeedTestCN/main/superspeed.sh)"
-	echo "       如果仍然异常，应该是SpeedTest初次授权问题"
-	echo "       请使用工具箱安装SpeedTest然后手动运行后YES授权"
-	echo "——————————————————————————————————————————————————————————"
+	echo "——————————————————— SuperSpeed 全面测速版 ——————————————————"
+	echo "       bash <(curl -Lso- https://raw.githubusercontent.com/isyekong/SpeedTestCN/main/superspeed.sh)"
+	echo "       如果仍然异常，应该是 SpeedTest 初次授权问题"
+	echo "       请手动安装 SpeedTest 然后手动运行后YES授权"
+	echo "———————————————————————————————————————————————————————————"
 }
 
 selecttest() {
